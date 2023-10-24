@@ -124,5 +124,25 @@ Contrasena: 1234!Milan
 
 Para que se conecte a la bd tiene que colocar en el modulo conexion, la contrasena de su bd
 
+# GESTION DE PROYECTO
+
+REALIZAMOS DOS SPRINTS CON SU RESPECTIVO ORDEN Y SEPARACION DE TAREAS, PARTICIPAMOS EN EQUIPO DE 7 INTEGRANTES.
+
+-Definimos issues a partir de las historias de usuario o bien de las tareas
+correspondientes.
+-Definimos  un esquema de branching.
+-Creamos el milestone correspondiente a los dos sprints
+-Llevamos actualizado el kanban del proyecto.
+-Documentamos las ceremonias de planning, review y retrospective.
+-Mantuvimos actualizado el documento de proyecto IEEE830.
+-Documentar el proyecto mediante el archivo readme.
+-Documentar el proyecto mediante la WIKI
+
+## ES POSIBLE INGRESAR A ELLO SALIENDO DEL FORK ENTRANDO A LA DEBIDA ORGANIZACION CREADA, VAN A PODER VISUALIZARLO
+
+# FINAL (PENDIENTE)
+-Realizar el release en Github.
+-Realizar el despliegue en Github Pages.
+
 
 
