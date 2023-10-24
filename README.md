@@ -122,21 +122,38 @@ Contrasena: 1234!Milan
 
 Para que se conecte a la bd tiene que colocar en el modulo conexion, la contrasena de su bd
 
-# GESTION DE PROYECTO
+Por supuesto, aquí tienes una lista para incluir en el README de tu proyecto que resalta los aspectos clave de la gestión del proyecto que mencionaste:
 
-REALIZAMOS DOS SPRINTS CON SU RESPECTIVO ORDEN Y SEPARACION DE TAREAS, PARTICIPAMOS EN EQUIPO DE 7 INTEGRANTES.
+# Gestión del Proyecto
 
-## REALIZAMOS
+A continuación, se detallan las actividades clave de gestión del proyecto que realizamos durante el desarrollo, organizado en dos sprints, con un equipo de 7 integrantes:
 
--Definimos issues a partir de las historias de usuario o bien de las tareas
-correspondientes.
--Definimos  un esquema de branching.
--Creamos el milestone correspondiente a los dos sprints
--Llevamos actualizado el kanban del proyecto.
--Documentamos las ceremonias de planning, review y retrospective.
--Mantuvimos actualizado el documento de proyecto IEEE830.
--Documentamos el proyecto mediante el archivo readme.
--Documentamos el proyecto mediante la WIKI
+- Definición de Issues:
+  - Definimos issues a partir de las historias de usuario o tareas correspondientes.
+  - Asignamos las issues a los miembros del equipo responsables de completarlas.
+
+- Esquema de Branching:
+  - Creamos un esquema de branching que permitió una gestión eficiente de las ramas de desarrollo, asegurando la colaboración y la integración continua.
+
+- Milestones:
+  - Creamos un milestone correspondiente a cada uno de los dos sprints, lo que nos permitió planificar y rastrear el progreso de manera efectiva.
+
+- Kanban del Proyecto:
+  - Mantuvimos actualizado un tablero Kanban del proyecto con las issues, su estado y su asignación, lo que facilitó la visualización del flujo de trabajo y la priorización de tareas.
+
+- Documentación de Ceremonias:
+  - Documentamos las ceremonias de planning, review y retrospective, lo que incluyó objetivos, discusiones, decisiones y acciones tomadas en cada reunión.
+
+- IEEE830:
+  - Mantuvimos actualizado el documento del proyecto siguiendo las directrices de IEEE830, lo que incluyó descripciones de los requisitos, la arquitectura y otros aspectos técnicos del proyecto.
+
+- README:
+  - Documentamos el proyecto mediante el archivo README, proporcionando una visión general del proyecto, estructura de carpetas, instrucciones de uso y contactos.
+
+- WIKI:
+  - Documentamos de manera más detallada el proyecto mediante la creación y actualización de una WIKI, que incluyó información técnica, guías de instalación, configuración y otros recursos útiles.
+
+Estas prácticas de gestión del proyecto nos permitieron mantener un flujo de trabajo organizado y efectivo, garantizando un desarrollo exitoso y colaborativo en equipo.
 
 ## ES POSIBLE INGRESAR A ELLO SALIENDO DEL FORK ENTRANDO A LA DEBIDA ORGANIZACION CREADA, VAN A PODER VISUALIZARLO
 
