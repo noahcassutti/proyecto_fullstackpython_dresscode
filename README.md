@@ -126,15 +126,17 @@ Para que se conecte a la bd tiene que colocar en el modulo conexion, la contrase
 
 REALIZAMOS DOS SPRINTS CON SU RESPECTIVO ORDEN Y SEPARACION DE TAREAS, PARTICIPAMOS EN EQUIPO DE 7 INTEGRANTES.
 
--**Definimos issues a partir de las historias de usuario o bien de las tareas
-correspondientes.**
--**Definimos  un esquema de branching.**
--**Creamos el milestone correspondiente a los dos sprints**
--**Llevamos actualizado el kanban del proyecto.**
--**Documentamos las ceremonias de planning, review y retrospective.**
--**Mantuvimos actualizado el documento de proyecto IEEE830.**
--**Documentamos el proyecto mediante el archivo readme.**
--**Documentamos el proyecto mediante la WIKI**
+## REALIZAMOS
+
+-Definimos issues a partir de las historias de usuario o bien de las tareas
+correspondientes.
+-Definimos  un esquema de branching.
+-Creamos el milestone correspondiente a los dos sprints
+-Llevamos actualizado el kanban del proyecto.
+-Documentamos las ceremonias de planning, review y retrospective.
+-Mantuvimos actualizado el documento de proyecto IEEE830.
+-Documentamos el proyecto mediante el archivo readme.
+-Documentamos el proyecto mediante la WIKI
 
 ## ES POSIBLE INGRESAR A ELLO SALIENDO DEL FORK ENTRANDO A LA DEBIDA ORGANIZACION CREADA, VAN A PODER VISUALIZARLO
 
