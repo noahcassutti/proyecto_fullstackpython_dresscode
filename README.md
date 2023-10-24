@@ -103,10 +103,8 @@ Asegúrate de tener instalado un navegador web actualizado para ver y probar el 
 Puedes personalizar este front-end según tus necesidades. Asegúrate de tener el back-end adecuado para gestionar los usuarios y los productos. Además, considera implementar un carrito de compras y un proceso de pago si deseas habilitar la funcionalidad de compra en línea.
 
 ## Créditos
-Este front-end de DressCode fue desarrollado por [Tu Nombre] y se basa en tecnologías web estándar como HTML, CSS y JavaScript.
+Este front-end de DressCode fue desarrollado por el grupo de tecnicatura del ispc y se basa en tecnologías web estándar como HTML, CSS, JavaScript y Bootstrap
 
-## Contacto
-Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto con nosotros en [tu@email.com].
 
 ¡Esperamos que disfrutes de tu experiencia en DressCode!
 Para ingresar al login tiene que colocar:
@@ -128,15 +126,15 @@ Para que se conecte a la bd tiene que colocar en el modulo conexion, la contrase
 
 REALIZAMOS DOS SPRINTS CON SU RESPECTIVO ORDEN Y SEPARACION DE TAREAS, PARTICIPAMOS EN EQUIPO DE 7 INTEGRANTES.
 
--Definimos issues a partir de las historias de usuario o bien de las tareas
-correspondientes.
--Definimos  un esquema de branching.
--Creamos el milestone correspondiente a los dos sprints
--Llevamos actualizado el kanban del proyecto.
--Documentamos las ceremonias de planning, review y retrospective.
--Mantuvimos actualizado el documento de proyecto IEEE830.
--Documentar el proyecto mediante el archivo readme.
--Documentar el proyecto mediante la WIKI
+-**Definimos issues a partir de las historias de usuario o bien de las tareas
+correspondientes.**
+-**Definimos  un esquema de branching.**
+-**Creamos el milestone correspondiente a los dos sprints**
+-**Llevamos actualizado el kanban del proyecto.**
+-**Documentamos las ceremonias de planning, review y retrospective.**
+-**Mantuvimos actualizado el documento de proyecto IEEE830.**
+-**Documentamos el proyecto mediante el archivo readme.**
+-**Documentamos el proyecto mediante la WIKI**
 
 ## ES POSIBLE INGRESAR A ELLO SALIENDO DEL FORK ENTRANDO A LA DEBIDA ORGANIZACION CREADA, VAN A PODER VISUALIZARLO
 
