@@ -63,12 +63,8 @@ La base de datos utiliza MySQL y consta de varias tablas, como `administrador`, 
 
 Si deseas contribuir a este proyecto, siéntete libre de hacerlo. Puedes crear solicitudes de extracción con nuevas características, correcciones de errores o mejoras en el código. También se pueden abrir problemas para discutir problemas o sugerir mejoras.
 
-¡Espero que este README te ayude a comprender la parte de back-end de tu proyecto! Asegúrate de personalizarlo con la información específica de tu proyecto y las instrucciones detalladas según sea necesario.# trabajointegradorgrup1
 Las reuniones en su mayoria y los presentes van a estar colocados en la wiki con la division de tareas.
-
-Claro, aquí tienes un ejemplo de cómo podría ser un archivo README para el front-end de un sitio web llamado "DressCode" que se dedica a la venta de ropa para programadores. El sitio web incluye las páginas de inicio (index), productos, login, registro y "Quiénes Somos", además de un archivo JavaScript para gestionar el inicio de sesión y el registro de usuarios:
-
-Entendido, gracias por la aclaración. Aquí tienes una versión actualizada de la estructura de carpetas y un README que refleja la estructura que mencionaste:
+El sitio web incluye las páginas de inicio (index), productos, login, registro y "Quiénes Somos", además de un archivo JavaScript para gestionar el inicio de sesión y el registro de usuarios:
 
 # README para el Front-end de DressCode
 
@@ -99,8 +95,6 @@ Asegúrate de tener instalado un navegador web actualizado para ver y probar el 
 2. Abre los archivos HTML en tu navegador para acceder a las diferentes secciones del sitio.
 3. Utiliza las páginas de "Login" y "Registro" para gestionar tu cuenta de usuario.
 
-## Personalización
-Puedes personalizar este front-end según tus necesidades. Asegúrate de tener el back-end adecuado para gestionar los usuarios y los productos. Además, considera implementar un carrito de compras y un proceso de pago si deseas habilitar la funcionalidad de compra en línea.
 
 ## Créditos
 Este front-end de DressCode fue desarrollado por el grupo de tecnicatura del ispc y se basa en tecnologías web estándar como HTML, CSS, JavaScript y Bootstrap
