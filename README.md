@@ -152,8 +152,8 @@ Estas prácticas de gestión del proyecto nos permitieron mantener un flujo de t
 ## ES POSIBLE INGRESAR A ELLO SALIENDO DEL FORK ENTRANDO A LA DEBIDA ORGANIZACION CREADA, VAN A PODER VISUALIZARLO
 
 # FINAL
--Realizar el release en Github.
--Realizar el despliegue en Github Pages: https://tsdwad2023com1grupo1.github.io/trabajointegradorgrup1
+-Release en Github.
+-Despliegue en Github Pages: https://tsdwad2023com1grupo1.github.io/trabajointegradorgrup1
 
 
 
